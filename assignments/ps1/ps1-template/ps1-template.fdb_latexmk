@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1723664787 "/Users/runqiuye/Desktop/studies/computer-science/data-structure-algorithms/mit-6006/assignments/ps1/ps1-template/ps1-template.tex" "ps1-template.pdf" "ps1-template" 1723664789
-  "/Users/runqiuye/Desktop/studies/computer-science/data-structure-algorithms/mit-6006/assignments/ps1/ps1-template/ps1-template.tex" 1723664787 2417 456227f2492644a8d625acc1a606691f ""
+["pdflatex"] 1723685403 "/Users/runqiuye/Desktop/studies/computer-science/data-structure-algorithms/mit-6006/assignments/ps1/ps1-template/ps1-template.tex" "ps1-template.pdf" "ps1-template" 1723685404
+  "/Users/runqiuye/Desktop/studies/computer-science/data-structure-algorithms/mit-6006/assignments/ps1/ps1-template/ps1-template.tex" 1723685402 2417 456227f2492644a8d625acc1a606691f ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -173,8 +173,8 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1678448550 2826436 192ceea0118c32aad5ddcb5f5712f0af ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "macros-sp20.tex" 1572271998 17065 56f91eb60d06ce1eb2a45ca67b2a13cd ""
-  "ps1-template.aux" 1723664789 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
-  "ps1-template.tex" 1723664787 2417 456227f2492644a8d625acc1a606691f ""
+  "ps1-template.aux" 1723685404 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
+  "ps1-template.tex" 1723685402 2417 456227f2492644a8d625acc1a606691f ""
   (generated)
   "ps1-template.aux"
   "ps1-template.log"
